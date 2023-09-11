@@ -22,7 +22,7 @@ Efficient room allocation is crucial for several reasons, including:
 
 We initially attempted to solve this problem using a discrete optimization solver but encountered challenges in achieving a small lower-upper bound gap within reasonable computing time. To address this, we proposed and implemented several heuristics to improve efficiency. Additionally, we compared these heuristics and evaluated their performance.  
 
-NB : For better performances, the project was also coded in JuliaL
+NB : For better performances, the project was also coded in Julia.
 
 
 ## Getting Started
