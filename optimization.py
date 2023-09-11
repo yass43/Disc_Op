@@ -12,7 +12,7 @@ print("Setting environment", flush=True)
 params = {
 "WLSACCESSID": 'secret',
 "WLSSECRET": 'secret',
-"LICENSEID": 123456,
+"LICENSEID": secret,
 }
 
 env = gp.Env(params=params)
